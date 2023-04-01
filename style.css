@@ -180,6 +180,11 @@ footer {
     margin-top: 20px;
 }
 
+#summary button:hover {
+    cursor: pointer;
+    background: linear-gradient(var(--slate-blue), var(--royal-blue));
+}
+
 @media (min-width: 768px) {
 
     main {
