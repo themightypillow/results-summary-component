@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site: []()
+- Live Site URL: https://themightypillow.github.io/results-summary-component/
 
 ### Screenshots
 
